@@ -1,0 +1,8 @@
+*.o
+*.class
+*.jar
+.idea/
+.vs/
+cmake-build-*/
+.DS_Store
+__pycache__/
